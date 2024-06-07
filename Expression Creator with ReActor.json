@@ -123,7 +123,7 @@
       },
       "flags": {},
       "order": 81,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -202,7 +202,7 @@
         "collapsed": true
       },
       "order": 66,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -249,7 +249,7 @@
       },
       "flags": {},
       "order": 98,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -328,7 +328,7 @@
         "collapsed": true
       },
       "order": 80,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -375,7 +375,7 @@
       },
       "flags": {},
       "order": 117,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -454,7 +454,7 @@
         "collapsed": true
       },
       "order": 96,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -501,7 +501,7 @@
       },
       "flags": {},
       "order": 78,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -572,7 +572,7 @@
       },
       "flags": {},
       "order": 192,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -599,7 +599,7 @@
         "collapsed": true
       },
       "order": 118,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -646,7 +646,7 @@
       },
       "flags": {},
       "order": 97,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -717,7 +717,7 @@
       ],
       "flags": {},
       "order": 79,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -755,7 +755,7 @@
       ],
       "flags": {},
       "order": 64,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -795,7 +795,7 @@
       },
       "flags": {},
       "order": 100,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -874,7 +874,7 @@
         "collapsed": true
       },
       "order": 82,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -921,7 +921,7 @@
       },
       "flags": {},
       "order": 67,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -992,7 +992,7 @@
       },
       "flags": {},
       "order": 197,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1017,7 +1017,7 @@
       },
       "flags": {},
       "order": 122,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -1096,7 +1096,7 @@
         "collapsed": true
       },
       "order": 101,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -1143,7 +1143,7 @@
       },
       "flags": {},
       "order": 83,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -1214,7 +1214,7 @@
       ],
       "flags": {},
       "order": 68,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -1253,7 +1253,7 @@
       },
       "flags": {},
       "order": 222,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1278,7 +1278,7 @@
       },
       "flags": {},
       "order": 146,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -1357,7 +1357,7 @@
         "collapsed": true
       },
       "order": 123,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -1404,7 +1404,7 @@
       },
       "flags": {},
       "order": 102,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -1475,7 +1475,7 @@
       ],
       "flags": {},
       "order": 84,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -1514,7 +1514,7 @@
       },
       "flags": {},
       "order": 172,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -1593,7 +1593,7 @@
         "collapsed": true
       },
       "order": 147,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "clip",
@@ -1640,7 +1640,7 @@
       },
       "flags": {},
       "order": 124,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -1711,7 +1711,7 @@
       },
       "flags": {},
       "order": 273,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1736,7 +1736,7 @@
       },
       "flags": {},
       "order": 249,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1761,7 +1761,7 @@
       ],
       "flags": {},
       "order": 77,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -1801,7 +1801,7 @@
       ],
       "flags": {},
       "order": 95,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -1841,7 +1841,7 @@
       ],
       "flags": {},
       "order": 60,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -1881,7 +1881,7 @@
       ],
       "flags": {},
       "order": 91,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -1919,7 +1919,7 @@
       ],
       "flags": {},
       "order": 73,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -4124,7 +4124,7 @@
       ],
       "flags": {},
       "order": 47,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -4164,7 +4164,7 @@
       },
       "flags": {},
       "order": 55,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -4235,7 +4235,7 @@
       },
       "flags": {},
       "order": 0,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -4271,7 +4271,7 @@
       },
       "flags": {},
       "order": 65,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -4343,7 +4343,7 @@
       ],
       "flags": {},
       "order": 54,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -4383,7 +4383,7 @@
       },
       "flags": {},
       "order": 1,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -4419,7 +4419,7 @@
       },
       "flags": {},
       "order": 2,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -4455,7 +4455,7 @@
       },
       "flags": {},
       "order": 3,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -4491,7 +4491,7 @@
       },
       "flags": {},
       "order": 4,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -8117,7 +8117,7 @@
       },
       "flags": {},
       "order": 16,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -8153,7 +8153,7 @@
       },
       "flags": {},
       "order": 17,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -8189,7 +8189,7 @@
       },
       "flags": {},
       "order": 18,
-      "mode": 2,
+      "mode": 0,
       "outputs": [
         {
           "name": "text",
@@ -8477,7 +8477,7 @@
       },
       "flags": {},
       "order": 167,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -8541,7 +8541,7 @@
       },
       "flags": {},
       "order": 99,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -8584,7 +8584,7 @@
         "collapsed": true
       },
       "order": 168,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -8641,7 +8641,7 @@
       },
       "flags": {},
       "order": 143,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -8723,7 +8723,7 @@
       },
       "flags": {},
       "order": 195,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -8750,7 +8750,7 @@
         "collapsed": true
       },
       "order": 196,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -8807,7 +8807,7 @@
       },
       "flags": {},
       "order": 119,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -8848,7 +8848,7 @@
       },
       "flags": {},
       "order": 166,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -8930,7 +8930,7 @@
       },
       "flags": {},
       "order": 140,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -8973,7 +8973,7 @@
         "collapsed": true
       },
       "order": 193,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -9030,7 +9030,7 @@
       },
       "flags": {},
       "order": 191,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -9109,7 +9109,7 @@
       },
       "flags": {},
       "order": 165,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -9150,7 +9150,7 @@
       },
       "flags": {},
       "order": 221,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -9232,7 +9232,7 @@
       },
       "flags": {},
       "order": 247,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -9259,7 +9259,7 @@
         "collapsed": true
       },
       "order": 248,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -9316,7 +9316,7 @@
       },
       "flags": {},
       "order": 141,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -9393,7 +9393,7 @@
       },
       "flags": {},
       "order": 121,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -9434,7 +9434,7 @@
       },
       "flags": {},
       "order": 169,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -9518,7 +9518,7 @@
         "collapsed": true
       },
       "order": 198,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -9575,7 +9575,7 @@
       },
       "flags": {},
       "order": 145,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -9616,7 +9616,7 @@
       },
       "flags": {},
       "order": 199,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -9700,7 +9700,7 @@
         "collapsed": true
       },
       "order": 223,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -9757,7 +9757,7 @@
       },
       "flags": {},
       "order": 171,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -9798,7 +9798,7 @@
       },
       "flags": {},
       "order": 224,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -9882,7 +9882,7 @@
         "collapsed": true
       },
       "order": 250,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -9939,7 +9939,7 @@
       },
       "flags": {},
       "order": 201,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -9980,7 +9980,7 @@
       },
       "flags": {},
       "order": 251,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -10064,7 +10064,7 @@
         "collapsed": true
       },
       "order": 274,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -13976,7 +13976,7 @@
       },
       "flags": {},
       "order": 142,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14042,7 +14042,7 @@
       },
       "flags": {},
       "order": 120,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14108,7 +14108,7 @@
       },
       "flags": {},
       "order": 164,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14176,7 +14176,7 @@
       },
       "flags": {},
       "order": 194,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14242,7 +14242,7 @@
       },
       "flags": {},
       "order": 225,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14308,7 +14308,7 @@
       },
       "flags": {},
       "order": 200,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14374,7 +14374,7 @@
       },
       "flags": {},
       "order": 170,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -14440,7 +14440,7 @@
       },
       "flags": {},
       "order": 144,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "input_image",
@@ -15903,7 +15903,7 @@
       ],
       "flags": {},
       "order": 103,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -15941,7 +15941,7 @@
       ],
       "flags": {},
       "order": 116,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -16285,7 +16285,7 @@
       ],
       "flags": {},
       "order": 45,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -16324,7 +16324,7 @@
       ],
       "flags": {},
       "order": 51,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -16438,7 +16438,7 @@
       ],
       "flags": {},
       "order": 63,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -17222,7 +17222,7 @@
       ],
       "flags": {},
       "order": 53,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -17261,7 +17261,7 @@
       ],
       "flags": {},
       "order": 56,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -21436,10 +21436,10 @@
       "id": "6V3miPY8rYqes6rnpUasc"
     },
     "ds": {
-      "scale": 0.6727499949325639,
+      "scale": 0.1,
       "offset": {
-        "0": -450.10714893273706,
-        "1": -2224.3691269022256
+        "0": 3026.0846234926157,
+        "1": 2346.724429197562
       }
     }
   },
